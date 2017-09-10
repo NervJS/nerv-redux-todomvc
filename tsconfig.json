@@ -1,0 +1,17 @@
+{
+  "version": "2.2.1",
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "outDir": "dist",
+    "jsxFactory": "Nerv.createElement"
+  },
+  "exclude": [
+    "dist",
+    "node_modules"
+  ]
+}
